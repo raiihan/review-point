@@ -3,6 +3,12 @@ import { Link, useMatch, useResolvedPath } from 'react-router-dom';
 
 const activeStyle = {
     textDecoration: 'none',
+    backgroundColor: 'rgb(29, 78, 216)',
+    margin: '0 10px',
+    padding: '6px 12px',
+    color: 'white',
+    fontWeght: '600',
+    borderRadius: '8px'
 }
 
 const CustomLink = ({ children, to, ...props }) => {
