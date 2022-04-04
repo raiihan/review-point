@@ -1,0 +1,9 @@
+@media screen and (max-width: 576px) {
+    .info-container {
+        order: 4;
+    }
+
+    .img-container {
+        order: 3;
+    }
+}
