@@ -1,6 +1,6 @@
 # Review Point
 
-## [My Live site Link](https://github.com/facebook/create-react-app)
+## [My Live site Link](https://reviews-point.netlify.app/)
 
 
 #
