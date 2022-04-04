@@ -14,7 +14,7 @@ const Home = () => {
         <div>
             <div className='sm:grid grid-cols-1 sm:grid-cols-2 gap-4 sm:mt-20 mx-12'>
                 <div className='my-3 info-container'>
-                    <h1 className='text-2xl sm:text-5xl'>Hope its Your next Choicse</h1>
+                    <h1 className='text-2xl sm:text-5xl'>Hope its Your next Choice</h1>
                     <h1 className='text-2xl sm:text-5xl text-blue-400 my-1'>Dell - Inspiron 15 3593</h1>
                     <p className='text-lg sm:text-xl text-gray-600 my-3'>DELL Inspiron 3593 39.6 cm (15.6") Intel® Core™ i7, Core™ i5 8 GB DDR4-SDRAM 256 GB SSD Wi-Fi 5 (802.11ac) Windows 10 Pro Black. Intel® Turbo Boost Technology 2.01 accelerates processor and graphics performance by increasing the operating frequency when operating below specification limits</p>
                     <div className='flex justify-center items-center'>
